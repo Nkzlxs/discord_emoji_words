@@ -16,4 +16,4 @@ python3 main.py EMOJI_ID INITIAL_PLACEHOLDER *WORDS
 python3 main.py ":OAO:" "||Spoiler||" "OAO :D"
 ```
 
-![Example](https://imgur.com/YN2WT8M)
+![Example](https://i.imgur.com/YN2WT8M.gif)
